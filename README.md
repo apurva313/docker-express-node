@@ -1,4 +1,4 @@
-Below is a clean Docker project documentation template for your Node.js + MongoDB application.
+
 
 # Dockerizing Node.js + MongoDB Application
 
@@ -23,7 +23,7 @@ The application:
 # Project Structure
 
 ```text
-docker-testapp-main/
+docker-express-node/
 │
 ├── public/
 │   ├── index.html
